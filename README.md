@@ -1,0 +1,2 @@
+# qrskanneri
+Javascript qr skanneri
